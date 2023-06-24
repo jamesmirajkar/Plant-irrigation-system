@@ -6,6 +6,8 @@
 
 - [Installation](#installation)
 - [Usage](#usage)
+- [Hardware Requirements](#hardware-requirements)
+- [Software Requirements](#software-requirements)
 - [Features](#features)
 - [Contributing](#contributing)
 - [License](#license)
@@ -46,6 +48,24 @@ Contributions are welcome! If you would like to contribute to this project, plea
 5. Submit a pull request describing your changes.
 
 Please ensure that your contributions adhere to the project's coding standards and guidelines.
+
+## Hardware Requirements
+To replicate this project, you will need the following hardware components:
+- ARM7TDMI microcontroller board
+- Moisture sensor
+- Water pump
+- LCD display
+- Buzzer
+- LEDs
+- Other necessary electronic components (resistors, capacitors, etc.)
+
+Make sure to connect the hardware components properly according to the provided circuit diagram.
+
+## Software Requirements
+- Keil µVision IDE (or any other compatible IDE)
+- ARM7TDMI microcontroller SDK
+- Any required drivers or libraries for the microcontroller and peripherals
+
 
 ## License
 
