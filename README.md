@@ -9,7 +9,7 @@ This project implements an automated plant irrigation system using the ARM7TDMI 
 - [Usage](#usage)
 - [Features](#features)
 - [Contributing](#contributing)
-- [License](#license)
+- [Code](#Code)
 
 ## Hardware Requirements
 To replicate this project, you will need the following hardware components:
@@ -63,30 +63,9 @@ Contributions are welcome! If you would like to contribute to this project, plea
 4. Push your changes to your forked repository.
 5. Submit a pull request describing your changes.
 
-Please ensure that your contributions adhere to the project's coding standards and guidelines.
+## Code
+
+```shell
+   git clone https://github.com/your-username/plant-irrigation-arm7.git
 
 
-
-## License
-
-This project is licensed under the [License Name]. For more details, see the [LICENSE](LICENSE) file.
-
-## Contact
-
-For questions, feedback, or suggestions, please contact [Maintainer Name] at [contact@example.com].
-
-## Support
-
-If you require support or encounter any issues with the project, please visit our [Issue Tracker](https://github.com/username/projectname/issues) to report the problem.
-
-## Changelog
-
-Please refer to the [CHANGELOG](CHANGELOG.md) file for details on changes made in each version of the project.
-
-## Roadmap
-
-The future plans and goals for the project are outlined in the [ROADMAP](ROADMAP.md) file.
-
-## Appendix
-
-For additional information, resources, or references, please refer to the [APPENDIX](APPENDIX.md) section.
