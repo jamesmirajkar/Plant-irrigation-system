@@ -15,11 +15,10 @@ This project implements an automated plant irrigation system using the ARM7TDMI 
 To replicate this project, you will need the following hardware components:
 - ARM7TDMI microcontroller board
 - Moisture sensor
-- Water pump
+- Water pump (DC motor)
 - LCD display
 - Buzzer
 - LEDs
-- Other necessary electronic components (resistors, capacitors, etc.)
 
 Make sure to connect the hardware components properly according to the provided circuit diagram.
 
